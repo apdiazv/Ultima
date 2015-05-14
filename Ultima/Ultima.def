@@ -1,0 +1,15 @@
+LIBRARY	"Ultima"
+EXPORTS
+Multiply
+Texto
+testInsert
+retornaString
+timestampToLong
+arreglaSabana
+insertaSabana
+actualizaTasasCtasCorrientes
+actualizaTasasSobregiros
+actualizaTasasCapital
+actualizaTasasValesVista
+actualizaTasasLetPag
+actualizaTasasBonosTrading
